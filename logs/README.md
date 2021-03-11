@@ -30,3 +30,8 @@ npm install uuid -g
 npm install moment -g
 npm install dotenv -g
 ```
+
+6. Para baixar e ser detectado pelo package.json como dependência:
+```js
+npm install express nodemon uuid moment dotenv
+```
